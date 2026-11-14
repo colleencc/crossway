@@ -1,0 +1,6 @@
+{
+  "name": "Crossway",
+  "description": "Multi-platform ride-hailing aggregator and commuter anchor comparing fares across Zig, Gojek, Tada, and Ryde with insider traffic tips and personalized transit news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
